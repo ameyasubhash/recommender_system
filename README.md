@@ -47,8 +47,9 @@ To overcome the limitation and enhance the model's scalability and usability, th
 
 2. Accuracy Rate for All Users:
 
-The report and presentation for this internship was attached:
-https://www.canva.com/design/DAFo4eE-Ybc/BUmOSC6PTgJUy_Ko1eWfOg/edit?utm_content=DAFo4eE-Ybc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-   Develop a mechanism to calculate the accuracy rate for predictions made for all users in the dataset. This will enable comprehensive evaluation and comparison of the model's performance for different users and highlight areas for further improvement.
+ Develop a mechanism to calculate the accuracy rate for predictions made for all users in the dataset. This will enable comprehensive evaluation and comparison of the model's performance for different users and highlight areas for further improvement.
 
 By addressing the limitations and incorporating these future enhancements, the item-based collaborative filtering model can evolve into a powerful and scalable recommender system, providing highly personalized movie recommendations for a broad user base. This would significantly enhance user satisfaction and engagement, making the platform more appealing and competitive in the movie recommendation market.
+
+The report and presentation for this internship was attached:
+https://www.canva.com/design/DAFo4eE-Ybc/BUmOSC6PTgJUy_Ko1eWfOg/edit?utm_content=DAFo4eE-Ybc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
