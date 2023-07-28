@@ -1,4 +1,15 @@
 # recommender_system
+Summary:
+🔍 Excited to share my research internship under Dr. Bidyut Patra, IIT-BHU! 🎓
+
+📚 Implemented a Recommender System research paper on "Item-Based Collaborative Filtering" using the MovieLens dataset with 1M+ movie ratings.
+
+💡 Built a Python implementation of the algorithm, calculating similarity scores between movies to predict ratings.
+
+📊 Evaluated the system's accuracy using Mean Absolute Error (MAE) and achieved promising results.
+
+🙌 Grateful for Dr. Patra's mentorship and expertise in Recommender Systems.
+
 The dataset used for the item-based collaborative filtering model is downloaded from the MovieLens website, a popular movie recommendation platform and research resource. The specific dataset used in this case is the "1 Million Plus" dataset, which contains over one million movie ratings. 
 
 Each component plays a crucial role in building and evaluating the recommender system.
@@ -35,6 +46,9 @@ To overcome the limitation and enhance the model's scalability and usability, th
    Implement parallel processing techniques to predict ratings and generate recommendations for multiple users simultaneously. This optimization can significantly speed up the process and improve the overall performance of the recommender system.
 
 2. Accuracy Rate for All Users:
+
+The report and presentation for this internship was attached:
+https://www.canva.com/design/DAFo4eE-Ybc/BUmOSC6PTgJUy_Ko1eWfOg/edit?utm_content=DAFo4eE-Ybc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
    Develop a mechanism to calculate the accuracy rate for predictions made for all users in the dataset. This will enable comprehensive evaluation and comparison of the model's performance for different users and highlight areas for further improvement.
 
 By addressing the limitations and incorporating these future enhancements, the item-based collaborative filtering model can evolve into a powerful and scalable recommender system, providing highly personalized movie recommendations for a broad user base. This would significantly enhance user satisfaction and engagement, making the platform more appealing and competitive in the movie recommendation market.
