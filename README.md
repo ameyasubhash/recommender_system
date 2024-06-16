@@ -51,5 +51,9 @@ To overcome the limitation and enhance the model's scalability and usability, th
 
 By addressing the limitations and incorporating these future enhancements, the item-based collaborative filtering model can evolve into a powerful and scalable recommender system, providing highly personalized movie recommendations for a broad user base. This would significantly enhance user satisfaction and engagement, making the platform more appealing and competitive in the movie recommendation market.
 
-The report and presentation for this internship was attached:
+Link for the research paper of Dr. Patra on Recommender System: https://files.grouplens.org/papers/www10_sarwar.pdf
+
+The presentation for this internship was attached:
 https://www.canva.com/design/DAFo4eE-Ybc/BUmOSC6PTgJUy_Ko1eWfOg/edit?utm_content=DAFo4eE-Ybc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+The report is attached in the repo.
